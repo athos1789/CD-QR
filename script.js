@@ -2553,7 +2553,8 @@ let qrbtn = select("button");
 qrbtn.addEventListener("click", generateQR);
 
 function generateQR(){
-
+  
+  qrtext.value = qrtext.value.toUpperCase();
   i = qrLocation.indexOf(qrtext.value);
   qrtext.value = qrText[i]
 
