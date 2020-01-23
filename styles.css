@@ -27,8 +27,8 @@ body {
 }
 
 img {
-  height: 350px;
-  width: 350px;
+  height: 450px;
+  width: 450px;
   padding: 1rem;
   border: 2px solid #febd69;
   grid-column: 1 / -1;
