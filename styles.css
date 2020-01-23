@@ -31,9 +31,7 @@ body {
 img {
   height: 600px;
   width: 600px;
-  padding: 1rem;
   border: 2px solid #febd69;
-  grid-column: 1 / -1;
 }
 
 textarea {
