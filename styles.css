@@ -24,6 +24,8 @@ body {
   display: grid;
   grid-template-columns: 1fr auto;
   grid-row-gap: 10px;
+  height: 600px;
+  width: 600px;
 }
 
 img {
